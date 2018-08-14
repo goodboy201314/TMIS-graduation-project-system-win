@@ -1,0 +1,10 @@
+registration-demo		搭建界面图
+registration-demo-1		完成windows本地mysql数据库的连接
+registration-demo-2		完成redhat中mysql数据库的连接
+registration-demo-3     插入一个id
+registration-demo-4     根据输入的内容生产二维码
+registration-demo-5      二维码的显示
+registration-demo-6      pbc的简单实用
+registration-demo-7      加密解密库 
+registration-demo-8      all-ok
+registration-demo-8===    error
